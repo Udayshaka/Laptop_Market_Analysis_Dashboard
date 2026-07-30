@@ -87,14 +87,14 @@ images/dashboard.png
 ```
 Laptop-Market-Analysis-Dashboard/
 │
-├── Dataset/
-│   └── cleaned_laptop_data.csv
+├──  Laptop Analysis Dashboard.pbix
+│    
 │
-├── Dashboard/
-│   └── Laptop Analysis Dashboard.pbix
+├── dashboard.png
+│   
 │
-├── Images/
-│   └── dashboard.png
+├── cleaned_laptop_data.csv
+│    
 │
 └── README.md
 ```
